@@ -1,8 +1,6 @@
 The MIT License (MIT)
 =====================
-Copyright (c) 2013 Eren Metin Elci
-----------------------------------
-Copyright (c) 2018 Dan Boss
+Copyright (c) 2013 Eren Metin Elci, Copyright (c) 2018 Dan Boss
 ----------------------------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
