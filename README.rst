@@ -1,7 +1,7 @@
-fdc - Fully Dynamic Connectivity
+Fully Dynamic Connectivity
 ===========
 
-Fully dynamic connectivity library for Monte Carlo Markow chain simulations on the lattice.
+Fully dynamic connectivity library for Monte Carlo Markow chain simulations on the lattice based on the Sweeny algorithm.
 
 This library is a direct copy https://github.com/ermeel86/sweeny with the following extensions
 
